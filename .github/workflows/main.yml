@@ -28,11 +28,21 @@ jobs:
 
       - name: 현재 디렉토리 파일 목록 출력 (디버깅용)
         run: ls -R
-        
+
+      - name: JSON 파일 존재 여부 확인 및 출력
+        run: |
+          if [ -f "templates/trending_videos.json" ]; then
+            echo "✅ templates/trending_videos.json 파일이 정상적으로 생성됨."
+            cat templates/trending_videos.json
+          else
+            echo "❌ templates/trending_videos.json 파일이 존재하지 않음!"
+            exit 1
+          fi
+
       - name: 변경 사항 커밋 및 푸시
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add trending_videos.json
+          git add templates/trending_videos.json
           git commit -m "🔄 자동 업데이트: 최신 유튜브 인기 영상 리스트" || echo "No changes to commit"
           git push origin main
