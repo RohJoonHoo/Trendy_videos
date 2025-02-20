@@ -43,6 +43,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase  # 원격 저장소의 최신 변경 사항을 가져옴
           git add templates/trending_videos.json
           git commit -m "🔄 자동 업데이트: 최신 유튜브 인기 영상 리스트" || echo "No changes to commit"
           git push origin main
