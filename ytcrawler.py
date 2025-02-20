@@ -17,7 +17,7 @@ def convert_duration(iso_duration):
 
     return f"{hours}:{minutes:02}:{seconds:02}" if hours > 0 else f"{minutes}:{seconds:02}"
 
-def get_trending_videos(region_code="KR", max_results=10):
+def get_trending_videos(region_code="KR", max_results=50):
     request = youtube.videos().list(
         part="id,snippet,contentDetails,statistics",
         chart="mostPopular",
