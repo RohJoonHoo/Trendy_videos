@@ -9,10 +9,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: 현재 디렉토리 파일 목록 출력 (디버깅용)
-        run: ls -R
-        
+    steps:        
       - name: 저장소 체크아웃
         uses: actions/checkout@v4
 
@@ -29,6 +26,9 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python ytcrawler.py
 
+      - name: 현재 디렉토리 파일 목록 출력 (디버깅용)
+        run: ls -R
+        
       - name: 변경 사항 커밋 및 푸시
         run: |
           git config --global user.name "github-actions[bot]"
