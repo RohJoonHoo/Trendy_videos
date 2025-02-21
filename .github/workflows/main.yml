@@ -1,7 +1,7 @@
 name: Update Trending Videos
 
 env:
-  API_KEY: ${{ secrets.API_KEY }}
+  OPENYOUTUBE_API_KEY: ${{ secrets.OPENYOUTUBE_API_KEY }}
 
 on:
   schedule:
