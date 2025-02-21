@@ -38,6 +38,8 @@ jobs:
             echo "❌ templates/trending_videos.json 파일이 존재하지 않음!"
             exit 1
           fi
+          
+
 
       - name: 변경 사항 커밋 및 푸시
         run: |
