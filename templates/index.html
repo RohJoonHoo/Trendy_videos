@@ -65,6 +65,8 @@
         }
     </style>
 </head>
+
+
 <body>
 
     <h1> 
@@ -74,13 +76,13 @@
     </h1>
 
     <!-- 시청 시간대 필터 -->
-    <div class="filter-container" >
-        <form action="index.html" method="get">
-            <select name="시간대">
+    <div class="filter-container">
+        <form id="filterForm">
+            <select id="durationFilter">
                 <option value="">영상 길이</option>
-                <option value="">15분 미만</option>
-                <option value="">15분 ~ 30분</option>
-                <option value="">30분 초과</option>
+                <option value="under15">15분 미만</option>
+                <option value="15to30">15분 ~ 30분</option>
+                <option value="over30">30분 초과</option>
             </select>
         </form>
     </div>
@@ -88,41 +90,64 @@
     <div class="separator"></div>
 
     <div class="video-container" id="videoList"></div>
+    
     <script>
-        // JSON 파일에서 데이터 불러오기
         async function fetchVideos() {
             try {
-                const response = await fetch("/api/videos");  // Flask API 엔드포인트에서 데이터 가져오기
+                const response = await fetch("/api/videos");
                 const videoData = await response.json();
-                
-                const videoList = document.getElementById("videoList");
-                videoList.innerHTML = "";  // 기존 내용 초기화
-
-                videoData.forEach(video => {
-                    const videoItem = document.createElement("div");
-                    videoItem.classList.add("video-item");
-
-                    videoItem.innerHTML = `
-                        <a href="https://www.youtube.com/watch?v=${video.video_id}" target="_blank">
-                            <img src="${video.thumbnail_url}" class="thumbnail">
-                        </a>
-                        <div class="title">${video.title}</div>
-                        <div class="channel">📺 ${video.channel_name}</div>
-                        <div class="duration">⏳ ${video.duration}</div>
-                        <div class="views">👁 ${parseInt(video.view_count).toLocaleString()}회</div>
-                    `;
-
-                    videoList.appendChild(videoItem);
-                });
-
+                displayVideos(videoData);
             } catch (error) {
                 console.error("JSON 데이터를 불러오는 중 오류 발생:", error);
             }
         }
-        // 페이지 로드 시 실행
-        fetchVideos();
 
+        function parseDuration(duration) {
+            const parts = duration.split(":");
+            return parts.length === 3 
+                ? parseInt(parts[0]) * 3600 + parseInt(parts[1]) * 60 + parseInt(parts[2])
+                : parseInt(parts[0]) * 60 + parseInt(parts[1]);
+        }
+
+        function filterVideos(videos, filterValue) {
+            return videos.filter(video => {
+                const durationInSeconds = parseDuration(video.duration);
+                if (filterValue === "under15") return durationInSeconds < 900;
+                if (filterValue === "15to30") return durationInSeconds >= 900 && durationInSeconds <= 1800;
+                if (filterValue === "over30") return durationInSeconds > 1800;
+                return true;
+            });
+        }
+
+        function displayVideos(videos) {
+            const container = document.getElementById("videoList");
+            container.innerHTML = "";
+            videos.forEach(video => {
+                const videoItem = document.createElement("div");
+                videoItem.classList.add("video-item");
+                videoItem.innerHTML = `
+                    <a href="https://www.youtube.com/watch?v=${video.video_id}" target="_blank">
+                        <img src="${video.thumbnail_url}" class="thumbnail">
+                    </a>
+                    <div class="title">${video.title}</div>
+                    <div class="channel">📺 ${video.channel_name}</div>
+                    <div class="duration">⏳ ${video.duration}</div>
+                    <div class="views">👁 ${parseInt(video.view_count).toLocaleString()}회</div>
+                `;
+                container.appendChild(videoItem);
+            });
+        }
+
+        document.getElementById("durationFilter").addEventListener("change", async function () {
+            const videos = await fetch("/api/videos").then(res => res.json());
+            const filteredVideos = filterVideos(videos, this.value);
+            displayVideos(filteredVideos);
+        });
+
+        fetchVideos();
     </script>
+
+    <!DOCTYPE html>
 
 </body>
 </html>
