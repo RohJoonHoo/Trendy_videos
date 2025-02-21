@@ -1,5 +1,8 @@
 name: Update Trending Videos
 
+env:
+  API_KEY: ${{ secrets.API_KEY }}
+
 on:
   schedule:
     - cron: "0 * * * *"  # 매 정각(1시간 간격) 실행
