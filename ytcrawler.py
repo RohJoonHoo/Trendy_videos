@@ -5,7 +5,7 @@ import os
 
 API_KEY = os.getenv("OPENYOUTUBE_API_KEY")
 
-youtube = build("youtube", "v3", developerKey=API_KEY)
+youtube = build("youtube", "v3", developerKey=API_KEY, static_discovery=False)
 
 def convert_duration(iso_duration):
     pattern = re.compile(r'PT(\d+H)?(\d+M)?(\d+S)?')
