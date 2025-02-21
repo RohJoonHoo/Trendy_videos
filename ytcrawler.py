@@ -5,10 +5,6 @@ import os
 
 API_KEY = os.getenv("OPENYOUTUBE_API_KEY")
 
-if not API_KEY:
-    raise ValueError("API_KEY가 설정되지 않았습니다. GitHub Secrets를 확인하세요.")
-else: print(API_KEY)
-
 youtube = build("youtube", "v3", developerKey=API_KEY)
 
 def convert_duration(iso_duration):
