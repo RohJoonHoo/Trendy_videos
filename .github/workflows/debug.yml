@@ -26,7 +26,7 @@ jobs:
 
       - name: 인기 급상승 동영상 업데이트 실행
         env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.OPENYOUTUBE_API_KEY }}
         run: python ytcrawler.py
 
       - name: 변경 사항 커밋 및 푸시
