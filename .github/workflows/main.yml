@@ -19,11 +19,12 @@ jobs:
           python-version: "3.9"
 
       - name: 필요한 패키지 설치
-        run: pip install google-api-python-client
+        run: |
+          pip install -r requirements.txt || pip install google-api-python-client requests
 
       - name: 인기 급상승 동영상 업데이트 실행
         env:
-          YOUTUBE_API_KEY: ${{secrets.OPENYOUTUBE_API_KEY}}
+          YOUTUBE_API_KEY: ${{ secrets.OPENYOUTUBE_API_KEY }}
         run: python ytcrawler.py
 
       - name: 현재 디렉토리 파일 목록 출력 (디버깅용)
@@ -31,15 +32,13 @@ jobs:
 
       - name: JSON 파일 존재 여부 확인 및 출력
         run: |
-          if [ -f "templates/trending_videos.json" ]; then
-            echo "✅ templates/trending_videos.json 파일이 정상적으로 생성됨."
+          if [ -s "templates/trending_videos.json" ]; then
+            echo "✅ JSON 파일이 정상적으로 생성됨."
             cat templates/trending_videos.json
           else
-            echo "❌ templates/trending_videos.json 파일이 존재하지 않음!"
+            echo "❌ JSON 파일이 비어 있거나 존재하지 않음!"
             exit 1
           fi
-          
-
 
       - name: 변경 사항 커밋 및 푸시
         run: |
@@ -47,5 +46,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add templates/trending_videos.json
           git commit -m "🔄 자동 업데이트: 최신 유튜브 인기 영상 리스트" || echo "No changes to commit"
-          git pull --rebase  # 원격 저장소의 최신 변경 사항을 가져옴
+          git pull --rebase || (git stash && git pull --rebase && git stash pop)
           git push origin main
