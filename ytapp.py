@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # JSON 파일 경로 설정 (현재 디렉토리에서 직접 로드)
-JSON_FILE_PATH = "templates/trending_videos.json"
+JSON_FILE_PATH = ""C:/Users/kccistc/Desktop/workspace/data/trending_videos.json""
 
 # 1️⃣ index.html 렌더링
 @app.route("/")
