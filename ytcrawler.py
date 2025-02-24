@@ -2,10 +2,18 @@ from googleapiclient.discovery import build
 import json
 import re
 import os
+from datetime import datetime
+import pytz  # ✅ KST 변환을 위해 추가
 
 API_KEY = os.getenv("OPENYOUTUBE_API_KEY")
 
 youtube = build("youtube", "v3", developerKey=API_KEY)
+
+def get_current_time_kst():
+    """현재 시간을 한국 시간(KST)으로 변환하여 반환하는 함수"""
+    kst = pytz.timezone("Asia/Seoul")
+    now = datetime.now(kst)
+    return now.strftime("%Y-%m-%d %H:%M:%S")  # "YYYY-MM-DD HH:MM:SS" 형식
 
 def convert_duration(iso_duration):
     pattern = re.compile(r'PT(\d+H)?(\d+M)?(\d+S)?')
@@ -62,7 +70,11 @@ SAVE_DIR = "templates"
 os.makedirs(SAVE_DIR, exist_ok=True)  # 폴더가 없으면 생성
 SAVE_PATH = os.path.join(SAVE_DIR, "trending_videos.json")  # 최종 파일 경로
 
-trending_videos = get_trending_videos()
+# ✅ 크롤링 시간 추가
+trending_videos = {
+    "scraped_time": get_current_time_kst(),  # 크롤링한 시간을 추가
+    "videos": get_trending_videos()
+}
 
 with open(SAVE_PATH, "w", encoding="utf-8") as file:
     json.dump(trending_videos, file, ensure_ascii=False, indent=4)
