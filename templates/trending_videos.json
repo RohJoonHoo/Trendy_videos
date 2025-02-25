@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-02-25 14:32:57",
+    "scraped_time": "2025-02-25 15:42:58",
     "videos": [
         {
             "video_id": "kxUA2wwYiME",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "5582281",
+            "view_count": "5863429",
             "thumbnail_url": "https://i.ytimg.com/vi/kxUA2wwYiME/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
             "category": "Entertainment",
             "duration": "13:47",
-            "view_count": "1318709",
+            "view_count": "1366822",
             "thumbnail_url": "https://i.ytimg.com/vi/CpzMAiDwfHc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "46:24",
-            "view_count": "1933305",
+            "view_count": "1953542",
             "thumbnail_url": "https://i.ytimg.com/vi/kshqQSqIW9M/hqdefault.jpg"
         },
         {
@@ -34,8 +34,26 @@
             "channel_name": "고로케 : goroke",
             "category": "Entertainment",
             "duration": "15:26",
-            "view_count": "903902",
+            "view_count": "916168",
             "thumbnail_url": "https://i.ytimg.com/vi/QdUhS8BNjWo/hqdefault.jpg"
+        },
+        {
+            "video_id": "wfhLJ0NrtsY",
+            "title": "저 아기 낳고 올게요..⭐️임신 9개월의 기록",
+            "channel_name": "김가을",
+            "category": "People & Blogs",
+            "duration": "16:18",
+            "view_count": "247984",
+            "thumbnail_url": "https://i.ytimg.com/vi/wfhLJ0NrtsY/hqdefault.jpg"
+        },
+        {
+            "video_id": "cSoire7xRR8",
+            "title": "일단 비닐은 건드리지 마 #런닝맨 #RunningMan #sbsenter",
+            "channel_name": "SBS Entertainment",
+            "category": "Entertainment",
+            "duration": "14:32",
+            "view_count": "335166",
+            "thumbnail_url": "https://i.ytimg.com/vi/cSoire7xRR8/hqdefault.jpg"
         },
         {
             "video_id": "RHZb_u3VOco",
@@ -43,17 +61,17 @@
             "channel_name": "카더정원",
             "category": "Music",
             "duration": "15:33",
-            "view_count": "4508776",
+            "view_count": "4544305",
             "thumbnail_url": "https://i.ytimg.com/vi/RHZb_u3VOco/hqdefault.jpg"
         },
         {
-            "video_id": "2hwiRN8t8Ok",
-            "title": "ZEROBASEONE (제로베이스원) 'BLUE' MV",
-            "channel_name": "ZEROBASEONE",
-            "category": "Entertainment",
-            "duration": "3:19",
-            "view_count": "9873395",
-            "thumbnail_url": "https://i.ytimg.com/vi/2hwiRN8t8Ok/hqdefault.jpg"
+            "video_id": "FwnvA-SFNKQ",
+            "title": "조나단의 하루",
+            "channel_name": "인생84",
+            "category": "People & Blogs",
+            "duration": "15:16",
+            "view_count": "211248",
+            "thumbnail_url": "https://i.ytimg.com/vi/FwnvA-SFNKQ/hqdefault.jpg"
         },
         {
             "video_id": "Ke_hXYcLhXw",
@@ -61,17 +79,53 @@
             "channel_name": "OfficialGDRAGON",
             "category": "People & Blogs",
             "duration": "0:19",
-            "view_count": "1267092",
+            "view_count": "1282108",
             "thumbnail_url": "https://i.ytimg.com/vi/Ke_hXYcLhXw/hqdefault.jpg"
         },
         {
+            "video_id": "2hwiRN8t8Ok",
+            "title": "ZEROBASEONE (제로베이스원) 'BLUE' MV",
+            "channel_name": "ZEROBASEONE",
+            "category": "Entertainment",
+            "duration": "3:19",
+            "view_count": "10240681",
+            "thumbnail_url": "https://i.ytimg.com/vi/2hwiRN8t8Ok/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZD6pOLbQ9HY",
+            "title": "Jung Hoo Lee's First Spring Training Home Run | 이정후 홈런 | SF Giants Highlights",
+            "channel_name": "San Francisco Giants",
+            "category": "Sports",
+            "duration": "0:24",
+            "view_count": "90162",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZD6pOLbQ9HY/hqdefault.jpg"
+        },
+        {
+            "video_id": "rkuuNVmbIrk",
+            "title": "[월간데이트 리액션/2월호] 즐거워보이네 ㅎ (feet.찰스엔터)",
+            "channel_name": "준빵조교",
+            "category": "People & Blogs",
+            "duration": "5:01",
+            "view_count": "203068",
+            "thumbnail_url": "https://i.ytimg.com/vi/rkuuNVmbIrk/hqdefault.jpg"
+        },
+        {
             "video_id": "yNf59qOk1hk",
-            "title": "여행 친구들은 핑계고ㅣEP.69",
+            "title": "[EN]여행 친구들은 핑계고ㅣEP.69",
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:00:23",
-            "view_count": "2313464",
+            "view_count": "2330535",
             "thumbnail_url": "https://i.ytimg.com/vi/yNf59qOk1hk/hqdefault.jpg"
+        },
+        {
+            "video_id": "bbfRxnf78XM",
+            "title": "숙이네 NEW 일꾼 등장🔥척척박사 경수진 VS 쩝쩝박사 고규필 환장의 조합ㅋㅋㅋ",
+            "channel_name": "김숙티비kimsookTV",
+            "category": "Entertainment",
+            "duration": "16:47",
+            "view_count": "245169",
+            "thumbnail_url": "https://i.ytimg.com/vi/bbfRxnf78XM/hqdefault.jpg"
         },
         {
             "video_id": "Y0qb3pbmY54",
@@ -79,7 +133,7 @@
             "channel_name": "리쥬라이크 LIJULIKE",
             "category": "People & Blogs",
             "duration": "34:14",
-            "view_count": "478149",
+            "view_count": "499694",
             "thumbnail_url": "https://i.ytimg.com/vi/Y0qb3pbmY54/hqdefault.jpg"
         },
         {
@@ -88,17 +142,17 @@
             "channel_name": "SBS ",
             "category": "Entertainment",
             "duration": "14:44",
-            "view_count": "189857",
+            "view_count": "199024",
             "thumbnail_url": "https://i.ytimg.com/vi/giWQXLXRfcM/hqdefault.jpg"
         },
         {
-            "video_id": "bbfRxnf78XM",
-            "title": "숙이네 NEW 일꾼 등장🔥척척박사 경수진 VS 쩝쩝박사 고규필 환장의 조합ㅋㅋㅋ",
-            "channel_name": "김숙티비kimsookTV",
-            "category": "Entertainment",
-            "duration": "16:47",
-            "view_count": "232122",
-            "thumbnail_url": "https://i.ytimg.com/vi/bbfRxnf78XM/hqdefault.jpg"
+            "video_id": "_7WFMVDuOCs",
+            "title": "2025 ISU 스피드스케이팅 월드컵 5차 대회 매스 스타트 결승ㅣ이승훈 [습츠_스피드스케이팅]",
+            "channel_name": "스브스스포츠 SUBUSU SPORTS",
+            "category": "Sports",
+            "duration": "9:20",
+            "view_count": "441676",
+            "thumbnail_url": "https://i.ytimg.com/vi/_7WFMVDuOCs/hqdefault.jpg"
         },
         {
             "video_id": "mTrsJ2lFXkk",
@@ -106,7 +160,7 @@
             "channel_name": "걍밍경",
             "category": "People & Blogs",
             "duration": "47:10",
-            "view_count": "778527",
+            "view_count": "785063",
             "thumbnail_url": "https://i.ytimg.com/vi/mTrsJ2lFXkk/hqdefault.jpg"
         },
         {
@@ -115,17 +169,8 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "8:01",
-            "view_count": "669481",
+            "view_count": "672007",
             "thumbnail_url": "https://i.ytimg.com/vi/PI_UtDlNoaI/hqdefault.jpg"
-        },
-        {
-            "video_id": "uTmUFbACM44",
-            "title": "'멀티 도움' 손흥민, 시즌 '10골-10도움' 달성! SPOTIME",
-            "channel_name": "스포타임",
-            "category": "Sports",
-            "duration": "4:12",
-            "view_count": "1939515",
-            "thumbnail_url": "https://i.ytimg.com/vi/uTmUFbACM44/hqdefault.jpg"
         },
         {
             "video_id": "2W6FPr3s5Kg",
@@ -133,7 +178,7 @@
             "channel_name": "LeoJ Makeup",
             "category": "Entertainment",
             "duration": "26:59",
-            "view_count": "1169334",
+            "view_count": "1174427",
             "thumbnail_url": "https://i.ytimg.com/vi/2W6FPr3s5Kg/hqdefault.jpg"
         },
         {
@@ -142,17 +187,26 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "7:49",
-            "view_count": "3177721",
+            "view_count": "3190102",
             "thumbnail_url": "https://i.ytimg.com/vi/R1XtFNn4MI4/hqdefault.jpg"
         },
         {
-            "video_id": "_7WFMVDuOCs",
-            "title": "2025 ISU 스피드스케이팅 월드컵 5차 대회 매스 스타트 결승ㅣ이승훈 [습츠_스피드스케이팅]",
-            "channel_name": "스브스스포츠 SUBUSU SPORTS",
+            "video_id": "JVr9WR542sw",
+            "title": "애매하게 친한 사이",
+            "channel_name": "짧은대본 ShortPaper",
+            "category": "Entertainment",
+            "duration": "8:30",
+            "view_count": "625466",
+            "thumbnail_url": "https://i.ytimg.com/vi/JVr9WR542sw/hqdefault.jpg"
+        },
+        {
+            "video_id": "uTmUFbACM44",
+            "title": "'멀티 도움' 손흥민, 시즌 '10골-10도움' 달성! SPOTIME",
+            "channel_name": "스포타임",
             "category": "Sports",
-            "duration": "9:20",
-            "view_count": "431514",
-            "thumbnail_url": "https://i.ytimg.com/vi/_7WFMVDuOCs/hqdefault.jpg"
+            "duration": "4:12",
+            "view_count": "1942154",
+            "thumbnail_url": "https://i.ytimg.com/vi/uTmUFbACM44/hqdefault.jpg"
         },
         {
             "video_id": "8xXdihGnF3o",
@@ -160,8 +214,17 @@
             "channel_name": "유슬비 YOOSEULBI",
             "category": "People & Blogs",
             "duration": "19:24",
-            "view_count": "357920",
+            "view_count": "361907",
             "thumbnail_url": "https://i.ytimg.com/vi/8xXdihGnF3o/hqdefault.jpg"
+        },
+        {
+            "video_id": "N5o0kxgC2eM",
+            "title": "직장인들 | 1화 하이라이트 | 쿠팡플레이 | 쿠팡",
+            "channel_name": "쿠팡플레이 Coupang Play",
+            "category": "Entertainment",
+            "duration": "3:12",
+            "view_count": "1065488",
+            "thumbnail_url": "https://i.ytimg.com/vi/N5o0kxgC2eM/hqdefault.jpg"
         },
         {
             "video_id": "eWAdpUyzCkI",
@@ -169,7 +232,7 @@
             "channel_name": "JennieRubyJaneVEVO",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "14580185",
+            "view_count": "14653415",
             "thumbnail_url": "https://i.ytimg.com/vi/eWAdpUyzCkI/hqdefault.jpg"
         },
         {
@@ -178,7 +241,7 @@
             "channel_name": "스브스스포츠 SUBUSU SPORTS",
             "category": "Sports",
             "duration": "9:03",
-            "view_count": "643282",
+            "view_count": "644394",
             "thumbnail_url": "https://i.ytimg.com/vi/gzQvTsakFs4/hqdefault.jpg"
         },
         {
@@ -187,7 +250,7 @@
             "channel_name": "브롤스타즈",
             "category": "Gaming",
             "duration": "10:09",
-            "view_count": "213997",
+            "view_count": "215524",
             "thumbnail_url": "https://i.ytimg.com/vi/C44fToCLDu8/hqdefault.jpg"
         },
         {
@@ -196,7 +259,7 @@
             "channel_name": "현역가왕&한일가왕전",
             "category": "Entertainment",
             "duration": "1:20",
-            "view_count": "152246",
+            "view_count": "153053",
             "thumbnail_url": "https://i.ytimg.com/vi/frny8_IKbl8/hqdefault.jpg"
         },
         {
@@ -205,7 +268,7 @@
             "channel_name": "수쩡민",
             "category": "People & Blogs",
             "duration": "7:01",
-            "view_count": "185505",
+            "view_count": "186888",
             "thumbnail_url": "https://i.ytimg.com/vi/56FX809qoj0/hqdefault.jpg"
         },
         {
@@ -214,17 +277,8 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "36:44",
-            "view_count": "754587",
+            "view_count": "756745",
             "thumbnail_url": "https://i.ytimg.com/vi/9-SMNE6uQF4/hqdefault.jpg"
-        },
-        {
-            "video_id": "nF2gPfU6Kqg",
-            "title": "Hearts2Hearts 하츠투하츠 'The Chase' MV Teaser",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "0:33",
-            "view_count": "1081553",
-            "thumbnail_url": "https://i.ytimg.com/vi/nF2gPfU6Kqg/hqdefault.jpg"
         },
         {
             "video_id": "Y0d8GznnhCI",
@@ -232,8 +286,17 @@
             "channel_name": "살아라! 콸콸이",
             "category": "People & Blogs",
             "duration": "27:52",
-            "view_count": "167660",
+            "view_count": "170046",
             "thumbnail_url": "https://i.ytimg.com/vi/Y0d8GznnhCI/hqdefault.jpg"
+        },
+        {
+            "video_id": "nF2gPfU6Kqg",
+            "title": "Hearts2Hearts 하츠투하츠 'The Chase' MV Teaser",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "0:33",
+            "view_count": "1087566",
+            "thumbnail_url": "https://i.ytimg.com/vi/nF2gPfU6Kqg/hqdefault.jpg"
         },
         {
             "video_id": "NiZSGAdfPMk",
@@ -241,7 +304,7 @@
             "channel_name": "채코제 Channel Korean Jay",
             "category": "Travel & Events",
             "duration": "21:16",
-            "view_count": "784694",
+            "view_count": "786536",
             "thumbnail_url": "https://i.ytimg.com/vi/NiZSGAdfPMk/hqdefault.jpg"
         },
         {
@@ -250,7 +313,7 @@
             "channel_name": "EBSDocumentary (EBS 다큐)",
             "category": "Travel & Events",
             "duration": "23:59",
-            "view_count": "861462",
+            "view_count": "877199",
             "thumbnail_url": "https://i.ytimg.com/vi/iMsM__DhuDg/hqdefault.jpg"
         },
         {
@@ -259,7 +322,7 @@
             "channel_name": "마님파이브 Manim Five Co.,Ltd.",
             "category": "People & Blogs",
             "duration": "14:58",
-            "view_count": "151240",
+            "view_count": "152620",
             "thumbnail_url": "https://i.ytimg.com/vi/QPT_CV1W5lY/hqdefault.jpg"
         },
         {
@@ -268,7 +331,7 @@
             "channel_name": "김나영의 nofilterTV(노필터티비)",
             "category": "People & Blogs",
             "duration": "20:20",
-            "view_count": "245026",
+            "view_count": "247222",
             "thumbnail_url": "https://i.ytimg.com/vi/7B6Fu04KCeg/hqdefault.jpg"
         },
         {
@@ -277,7 +340,7 @@
             "channel_name": "오늘의 샛별이 ",
             "category": "People & Blogs",
             "duration": "10:16",
-            "view_count": "266388",
+            "view_count": "267823",
             "thumbnail_url": "https://i.ytimg.com/vi/UzO0GMO-PUk/hqdefault.jpg"
         },
         {
@@ -286,7 +349,7 @@
             "channel_name": "[상윤쓰]Sangyoon",
             "category": "Entertainment",
             "duration": "8:29",
-            "view_count": "780359",
+            "view_count": "783130",
             "thumbnail_url": "https://i.ytimg.com/vi/N2dDh4ORBZ8/hqdefault.jpg"
         },
         {
@@ -295,7 +358,7 @@
             "channel_name": "곰민영",
             "category": "People & Blogs",
             "duration": "25:53",
-            "view_count": "220186",
+            "view_count": "220815",
             "thumbnail_url": "https://i.ytimg.com/vi/DCS6P5m3v4k/hqdefault.jpg"
         },
         {
@@ -304,7 +367,7 @@
             "channel_name": "가요이 키우기 YoiKi",
             "category": "People & Blogs",
             "duration": "22:24",
-            "view_count": "574671",
+            "view_count": "576602",
             "thumbnail_url": "https://i.ytimg.com/vi/P4iN285pFx4/hqdefault.jpg"
         },
         {
@@ -313,71 +376,8 @@
             "channel_name": "나혼자산다 STUDIO",
             "category": "People & Blogs",
             "duration": "4:19",
-            "view_count": "373143",
+            "view_count": "373375",
             "thumbnail_url": "https://i.ytimg.com/vi/QE-oDsgL0Xs/hqdefault.jpg"
-        },
-        {
-            "video_id": "66Os07E25kE",
-            "title": "연기부터 팬 사랑까지 완벽💕 차주영 안 좋아하는 거 그거 어떻게 하는 건데.. #highlight#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.281",
-            "channel_name": "유 퀴즈 온 더 튜브",
-            "category": "Entertainment",
-            "duration": "19:56",
-            "view_count": "1217393",
-            "thumbnail_url": "https://i.ytimg.com/vi/66Os07E25kE/hqdefault.jpg"
-        },
-        {
-            "video_id": "4Lbl2ERHTmU",
-            "title": "참기름에 볶지말고 맹물 넣지마세요. 가장 맛있는 미역국 '이렇게' 끓이면 100% 성공!",
-            "channel_name": "딸을 위한 레시피 Recipes for daughters",
-            "category": "Howto & Style",
-            "duration": "8:21",
-            "view_count": "275777",
-            "thumbnail_url": "https://i.ytimg.com/vi/4Lbl2ERHTmU/hqdefault.jpg"
-        },
-        {
-            "video_id": "jmhEWKK_ez4",
-            "title": "영지를 위해 13년 만에 KBS에 온 나영석PD! 오자마자 축하공연부터! [더 시즌즈-이영지의 레인보우] | KBS 250221 방송",
-            "channel_name": "KBS Kpop",
-            "category": "Music",
-            "duration": "3:15",
-            "view_count": "738643",
-            "thumbnail_url": "https://i.ytimg.com/vi/jmhEWKK_ez4/hqdefault.jpg"
-        },
-        {
-            "video_id": "y-QX0rtXHk4",
-            "title": "강나미가 낉여주는 일본 당일치기 우동 로드🍜 카가와 1일 5우동 도장 깨기  🚨'그 분' 시청 금지🚨",
-            "channel_name": "동네친구 강나미 [Kangnami]",
-            "category": "Entertainment",
-            "duration": "29:33",
-            "view_count": "767361",
-            "thumbnail_url": "https://i.ytimg.com/vi/y-QX0rtXHk4/hqdefault.jpg"
-        },
-        {
-            "video_id": "HLJISxBgCLY",
-            "title": "장영란 롤모델 최은경의 럭셔리 하우스 최초공개 (+몸매 비결)",
-            "channel_name": "A급 장영란",
-            "category": "Entertainment",
-            "duration": "19:07",
-            "view_count": "534614",
-            "thumbnail_url": "https://i.ytimg.com/vi/HLJISxBgCLY/hqdefault.jpg"
-        },
-        {
-            "video_id": "SFkIwPs9hiw",
-            "title": "사나이들의 우정은 끝까지 가는 겁니다! (sub)",
-            "channel_name": "덱스101",
-            "category": "People & Blogs",
-            "duration": "16:25",
-            "view_count": "528706",
-            "thumbnail_url": "https://i.ytimg.com/vi/SFkIwPs9hiw/hqdefault.jpg"
-        },
-        {
-            "video_id": "wsASLAHlw6Y",
-            "title": "Singing live undercover pretending to be a track (w/ParkKiYoung) [BGL : Background Live] | JAYKEEOUT",
-            "channel_name": "JAYKEEOUT 제이키아웃",
-            "category": "Entertainment",
-            "duration": "23:06",
-            "view_count": "645322",
-            "thumbnail_url": "https://i.ytimg.com/vi/wsASLAHlw6Y/hqdefault.jpg"
         }
     ]
 }
