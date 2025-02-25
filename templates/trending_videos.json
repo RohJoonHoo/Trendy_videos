@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-02-25 12:41:15",
+    "scraped_time": "2025-02-25 13:37:37",
     "videos": [
         {
             "video_id": "kxUA2wwYiME",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "5155202",
+            "view_count": "5328219",
             "thumbnail_url": "https://i.ytimg.com/vi/kxUA2wwYiME/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
             "category": "Entertainment",
             "duration": "13:47",
-            "view_count": "1252689",
+            "view_count": "1282440",
             "thumbnail_url": "https://i.ytimg.com/vi/CpzMAiDwfHc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "46:24",
-            "view_count": "1906154",
+            "view_count": "1919099",
             "thumbnail_url": "https://i.ytimg.com/vi/kshqQSqIW9M/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "고로케 : goroke",
             "category": "Entertainment",
             "duration": "15:26",
-            "view_count": "883876",
+            "view_count": "893602",
             "thumbnail_url": "https://i.ytimg.com/vi/QdUhS8BNjWo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "카더정원",
             "category": "Music",
             "duration": "15:33",
-            "view_count": "4462884",
+            "view_count": "4484625",
             "thumbnail_url": "https://i.ytimg.com/vi/RHZb_u3VOco/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "OfficialGDRAGON",
             "category": "People & Blogs",
             "duration": "0:19",
-            "view_count": "1252482",
+            "view_count": "1259338",
             "thumbnail_url": "https://i.ytimg.com/vi/Ke_hXYcLhXw/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "ZEROBASEONE",
             "category": "Entertainment",
             "duration": "3:19",
-            "view_count": "9053509",
+            "view_count": "9526624",
             "thumbnail_url": "https://i.ytimg.com/vi/2hwiRN8t8Ok/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "SBS ",
             "category": "Entertainment",
             "duration": "14:44",
-            "view_count": "176198",
+            "view_count": "182328",
             "thumbnail_url": "https://i.ytimg.com/vi/giWQXLXRfcM/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "리쥬라이크 LIJULIKE",
             "category": "People & Blogs",
             "duration": "34:14",
-            "view_count": "439345",
+            "view_count": "458175",
             "thumbnail_url": "https://i.ytimg.com/vi/Y0qb3pbmY54/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:00:23",
-            "view_count": "2286813",
+            "view_count": "2299205",
             "thumbnail_url": "https://i.ytimg.com/vi/yNf59qOk1hk/hqdefault.jpg"
         },
         {
@@ -97,17 +97,8 @@
             "channel_name": "김숙티비kimsookTV",
             "category": "Entertainment",
             "duration": "16:47",
-            "view_count": "210492",
+            "view_count": "221480",
             "thumbnail_url": "https://i.ytimg.com/vi/bbfRxnf78XM/hqdefault.jpg"
-        },
-        {
-            "video_id": "uTmUFbACM44",
-            "title": "'멀티 도움' 손흥민, 시즌 '10골-10도움' 달성! SPOTIME",
-            "channel_name": "스포타임",
-            "category": "Sports",
-            "duration": "4:12",
-            "view_count": "1934762",
-            "thumbnail_url": "https://i.ytimg.com/vi/uTmUFbACM44/hqdefault.jpg"
         },
         {
             "video_id": "mTrsJ2lFXkk",
@@ -115,8 +106,26 @@
             "channel_name": "걍밍경",
             "category": "People & Blogs",
             "duration": "47:10",
-            "view_count": "768685",
+            "view_count": "773599",
             "thumbnail_url": "https://i.ytimg.com/vi/mTrsJ2lFXkk/hqdefault.jpg"
+        },
+        {
+            "video_id": "uTmUFbACM44",
+            "title": "'멀티 도움' 손흥민, 시즌 '10골-10도움' 달성! SPOTIME",
+            "channel_name": "스포타임",
+            "category": "Sports",
+            "duration": "4:12",
+            "view_count": "1936994",
+            "thumbnail_url": "https://i.ytimg.com/vi/uTmUFbACM44/hqdefault.jpg"
+        },
+        {
+            "video_id": "PI_UtDlNoaI",
+            "title": "첫 연애 이별 특",
+            "channel_name": "픽고 PICKGO",
+            "category": "Entertainment",
+            "duration": "8:01",
+            "view_count": "667590",
+            "thumbnail_url": "https://i.ytimg.com/vi/PI_UtDlNoaI/hqdefault.jpg"
         },
         {
             "video_id": "2W6FPr3s5Kg",
@@ -124,7 +133,7 @@
             "channel_name": "LeoJ Makeup",
             "category": "Entertainment",
             "duration": "26:59",
-            "view_count": "1162577",
+            "view_count": "1165600",
             "thumbnail_url": "https://i.ytimg.com/vi/2W6FPr3s5Kg/hqdefault.jpg"
         },
         {
@@ -133,17 +142,8 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "7:49",
-            "view_count": "3160138",
+            "view_count": "3169081",
             "thumbnail_url": "https://i.ytimg.com/vi/R1XtFNn4MI4/hqdefault.jpg"
-        },
-        {
-            "video_id": "8xXdihGnF3o",
-            "title": "딸의 결혼식을 위해서 한국으로 8,000km 날아온 터키 처가댁 가족분들",
-            "channel_name": "유슬비 YOOSEULBI",
-            "category": "People & Blogs",
-            "duration": "19:24",
-            "view_count": "351795",
-            "thumbnail_url": "https://i.ytimg.com/vi/8xXdihGnF3o/hqdefault.jpg"
         },
         {
             "video_id": "_7WFMVDuOCs",
@@ -151,17 +151,17 @@
             "channel_name": "스브스스포츠 SUBUSU SPORTS",
             "category": "Sports",
             "duration": "9:20",
-            "view_count": "419533",
+            "view_count": "425274",
             "thumbnail_url": "https://i.ytimg.com/vi/_7WFMVDuOCs/hqdefault.jpg"
         },
         {
-            "video_id": "PI_UtDlNoaI",
-            "title": "첫 연애 이별 특",
-            "channel_name": "픽고 PICKGO",
-            "category": "Entertainment",
-            "duration": "8:01",
-            "view_count": "665897",
-            "thumbnail_url": "https://i.ytimg.com/vi/PI_UtDlNoaI/hqdefault.jpg"
+            "video_id": "8xXdihGnF3o",
+            "title": "딸의 결혼식을 위해서 한국으로 8,000km 날아온 터키 처가댁 가족분들",
+            "channel_name": "유슬비 YOOSEULBI",
+            "category": "People & Blogs",
+            "duration": "19:24",
+            "view_count": "354764",
+            "thumbnail_url": "https://i.ytimg.com/vi/8xXdihGnF3o/hqdefault.jpg"
         },
         {
             "video_id": "gzQvTsakFs4",
@@ -169,7 +169,7 @@
             "channel_name": "스브스스포츠 SUBUSU SPORTS",
             "category": "Sports",
             "duration": "9:03",
-            "view_count": "641352",
+            "view_count": "642357",
             "thumbnail_url": "https://i.ytimg.com/vi/gzQvTsakFs4/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "JennieRubyJaneVEVO",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "14463869",
+            "view_count": "14525485",
             "thumbnail_url": "https://i.ytimg.com/vi/eWAdpUyzCkI/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "브롤스타즈",
             "category": "Gaming",
             "duration": "10:09",
-            "view_count": "211145",
+            "view_count": "212550",
             "thumbnail_url": "https://i.ytimg.com/vi/C44fToCLDu8/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "현역가왕&한일가왕전",
             "category": "Entertainment",
             "duration": "1:20",
-            "view_count": "150599",
+            "view_count": "151471",
             "thumbnail_url": "https://i.ytimg.com/vi/frny8_IKbl8/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "수쩡민",
             "category": "People & Blogs",
             "duration": "7:01",
-            "view_count": "183715",
+            "view_count": "184628",
             "thumbnail_url": "https://i.ytimg.com/vi/56FX809qoj0/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "36:44",
-            "view_count": "750919",
+            "view_count": "752318",
             "thumbnail_url": "https://i.ytimg.com/vi/9-SMNE6uQF4/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "0:33",
-            "view_count": "1069570",
+            "view_count": "1075803",
             "thumbnail_url": "https://i.ytimg.com/vi/nF2gPfU6Kqg/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "살아라! 콸콸이",
             "category": "People & Blogs",
             "duration": "27:52",
-            "view_count": "164548",
+            "view_count": "165997",
             "thumbnail_url": "https://i.ytimg.com/vi/Y0d8GznnhCI/hqdefault.jpg"
         },
         {
@@ -241,17 +241,8 @@
             "channel_name": "채코제 Channel Korean Jay",
             "category": "Travel & Events",
             "duration": "21:16",
-            "view_count": "781586",
+            "view_count": "783253",
             "thumbnail_url": "https://i.ytimg.com/vi/NiZSGAdfPMk/hqdefault.jpg"
-        },
-        {
-            "video_id": "QPT_CV1W5lY",
-            "title": "친정에서 엄마에게 보낸 선물을 애들에게 열어보라고 했다..실망 가득,솔직한 아이들의 리액션 😂",
-            "channel_name": "마님파이브 Manim Five Co.,Ltd.",
-            "category": "People & Blogs",
-            "duration": "14:58",
-            "view_count": "149553",
-            "thumbnail_url": "https://i.ytimg.com/vi/QPT_CV1W5lY/hqdefault.jpg"
         },
         {
             "video_id": "iMsM__DhuDg",
@@ -259,8 +250,17 @@
             "channel_name": "EBSDocumentary (EBS 다큐)",
             "category": "Travel & Events",
             "duration": "23:59",
-            "view_count": "841020",
+            "view_count": "851146",
             "thumbnail_url": "https://i.ytimg.com/vi/iMsM__DhuDg/hqdefault.jpg"
+        },
+        {
+            "video_id": "QPT_CV1W5lY",
+            "title": "친정에서 엄마에게 보낸 선물을 애들에게 열어보라고 했다..실망 가득,솔직한 아이들의 리액션 😂",
+            "channel_name": "마님파이브 Manim Five Co.,Ltd.",
+            "category": "People & Blogs",
+            "duration": "14:58",
+            "view_count": "150401",
+            "thumbnail_url": "https://i.ytimg.com/vi/QPT_CV1W5lY/hqdefault.jpg"
         },
         {
             "video_id": "7B6Fu04KCeg",
@@ -268,7 +268,7 @@
             "channel_name": "김나영의 nofilterTV(노필터티비)",
             "category": "People & Blogs",
             "duration": "20:20",
-            "view_count": "241479",
+            "view_count": "243292",
             "thumbnail_url": "https://i.ytimg.com/vi/7B6Fu04KCeg/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "오늘의 샛별이 ",
             "category": "People & Blogs",
             "duration": "10:16",
-            "view_count": "263833",
+            "view_count": "265179",
             "thumbnail_url": "https://i.ytimg.com/vi/UzO0GMO-PUk/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "[상윤쓰]Sangyoon",
             "category": "Entertainment",
             "duration": "8:29",
-            "view_count": "776004",
+            "view_count": "778124",
             "thumbnail_url": "https://i.ytimg.com/vi/N2dDh4ORBZ8/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "곰민영",
             "category": "People & Blogs",
             "duration": "25:53",
-            "view_count": "219100",
+            "view_count": "219615",
             "thumbnail_url": "https://i.ytimg.com/vi/DCS6P5m3v4k/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "가요이 키우기 YoiKi",
             "category": "People & Blogs",
             "duration": "22:24",
-            "view_count": "571460",
+            "view_count": "573010",
             "thumbnail_url": "https://i.ytimg.com/vi/P4iN285pFx4/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "나혼자산다 STUDIO",
             "category": "People & Blogs",
             "duration": "4:19",
-            "view_count": "372691",
+            "view_count": "372896",
             "thumbnail_url": "https://i.ytimg.com/vi/QE-oDsgL0Xs/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "유 퀴즈 온 더 튜브",
             "category": "Entertainment",
             "duration": "19:56",
-            "view_count": "1212517",
+            "view_count": "1214742",
             "thumbnail_url": "https://i.ytimg.com/vi/66Os07E25kE/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "딸을 위한 레시피 Recipes for daughters",
             "category": "Howto & Style",
             "duration": "8:21",
-            "view_count": "270945",
+            "view_count": "273534",
             "thumbnail_url": "https://i.ytimg.com/vi/4Lbl2ERHTmU/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "KBS Kpop",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "735112",
+            "view_count": "736773",
             "thumbnail_url": "https://i.ytimg.com/vi/jmhEWKK_ez4/hqdefault.jpg"
         },
         {
@@ -349,17 +349,17 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "29:33",
-            "view_count": "762051",
+            "view_count": "764426",
             "thumbnail_url": "https://i.ytimg.com/vi/y-QX0rtXHk4/hqdefault.jpg"
         },
         {
-            "video_id": "XsLNLBedG_I",
-            "title": "동엽신의 최최최측근이 말하는 모든 사건의 전말 (빚 100억, 슈퍼마켙, 결혼 반대)",
-            "channel_name": "형수는 케이윌",
+            "video_id": "HLJISxBgCLY",
+            "title": "장영란 롤모델 최은경의 럭셔리 하우스 최초공개 (+몸매 비결)",
+            "channel_name": "A급 장영란",
             "category": "Entertainment",
-            "duration": "33:31",
-            "view_count": "2245318",
-            "thumbnail_url": "https://i.ytimg.com/vi/XsLNLBedG_I/hqdefault.jpg"
+            "duration": "19:07",
+            "view_count": "532104",
+            "thumbnail_url": "https://i.ytimg.com/vi/HLJISxBgCLY/hqdefault.jpg"
         },
         {
             "video_id": "SFkIwPs9hiw",
@@ -367,7 +367,7 @@
             "channel_name": "덱스101",
             "category": "People & Blogs",
             "duration": "16:25",
-            "view_count": "523566",
+            "view_count": "525698",
             "thumbnail_url": "https://i.ytimg.com/vi/SFkIwPs9hiw/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "JAYKEEOUT 제이키아웃",
             "category": "Entertainment",
             "duration": "23:06",
-            "view_count": "642719",
+            "view_count": "644032",
             "thumbnail_url": "https://i.ytimg.com/vi/wsASLAHlw6Y/hqdefault.jpg"
         }
     ]
